@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="floatAddBut1">TODO</string>
+    <string name="AddActivityName">HowdyNote</string>
+    <string name="editTitle1">Title</string>
+    <string name="multiText1">Note text</string>
+    <string name="ButtonAdd">Add</string>
+    <string name="ToastSuccess">Note added Successfully!</string>
+    <string name="Note_idText">1</string>
+    <string name="Note_TitleText">Title</string>
+    <string name="Note_noteText">HowdyText</string>
+    <string name="ButtonUpdate">Update</string>
+    <string name="UpdateActivityName">Update Note</string>
+    <string name="ButtonDelete">Delete</string>
+    <string name="DeleteAll">DeleteAll</string>
+</resources>

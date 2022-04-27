@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\AminJohn\Android\Notes\app"
+    name=":app"
+    type="APP"
+    maven="Notes:app:"
+    gradle="7.2.0-rc01"
+    buildFolder="build"
+    bootClassPath="C:\Users\John1\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\John1\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-32"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
